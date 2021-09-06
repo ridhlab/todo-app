@@ -1,3 +1,7 @@
+## Description
+
+This is project about Todo App with Reactjs that i have made. Thanks to [briancodex](https://github.com/briancodex) for guiding me to make this project. I follow his tutorial in his [youtube channel](https://www.youtube.com/watch?v=E1E08i2UJGI). and it very help me. in his video, I just follow the logic app. And the styling i use Chakra UI.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
